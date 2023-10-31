@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\SistemaLivros2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\SistemaLivros2023.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\SistemaLivros2023.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\SistemaLivros2023.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\bin\Debug\net6.0\SistemaLivros2023.exe
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\bin\Debug\net6.0\SistemaLivros2023.deps.json
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\bin\Debug\net6.0\SistemaLivros2023.runtimeconfig.json
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\bin\Debug\net6.0\SistemaLivros2023.dll
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\bin\Debug\net6.0\SistemaLivros2023.pdb
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\SistemaLivros2023.dll
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\refint\SistemaLivros2023.dll
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\SistemaLivros2023.pdb
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\SistemaLivros2023.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\SistemaLivros2023\SistemaLivros2023\obj\Debug\net6.0\ref\SistemaLivros2023.dll
